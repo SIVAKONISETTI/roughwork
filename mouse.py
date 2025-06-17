@@ -1,4 +1,4 @@
 print("hi")
-a=10
+a=21
 b="bye"
 l=[]
